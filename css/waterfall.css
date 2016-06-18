@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    -webkit-column-width:210px;
+    -moz-column-width:210px;
+	  -webkit-column-gap:0px;
+	  -moz-column-gap:0px;
+    /*text-align: center;*/
+    /*column-count:6;*/
+    /*-webkit-column-count:6 ;*/
+}
+/*数据块 砖块*/
+.container div{
+    text-align: center;
+}
+.container div img{
+    width:190px;
+    padding:10px 0 0 0;
+}
